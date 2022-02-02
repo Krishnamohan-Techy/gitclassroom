@@ -1,0 +1,4 @@
+git push
+git commit
+git push origin brachname
+git commit -m "text description about changes"
