@@ -1,0 +1,20 @@
+git init : which makes a normal folder into git repostitory
+git -a   : which shows hidden git files init
+touch names.txt : by using this we create a new file
+git status : it tells us current file staged or not
+git add names.txt: it makes the code avaliable on the stage 
+git add . : git will add all the files on to the stage
+git restore --stage names.txt
+git commit -m "this are the changes i made"
+pwd : shows currently what is the file path we are in
+cat filename : shows what is the content inside the file exists
+git log : shows overall history
+git vi filename : directly goes to text editor
+                      -- press enter to enter text
+		      -- then write the code
+                      -- to save the code just press esc and after that 
+                         press ZZ it will automatically goes to previous command line setup
+rm -rf filename : delete the file
+rm -d foldername : remove the folder 
+
+
